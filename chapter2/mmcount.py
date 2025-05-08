@@ -1,5 +1,5 @@
 # 예제 2-1 M&M 개수 집계
-#실행 방법 : python mmcount.py 데이터셋 경로 
+#실행 방법 : python mmcount.py 데이터셋 경로  
 
 import sys
 from pyspark.sql import SparkSession
